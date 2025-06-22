@@ -30,3 +30,9 @@ This repository documents my completion of OSHA-compliant electrical safety trai
 
 ---
 
+## 🏅 Resume Line
+
+```markdown
+OSHA Electrical Safety Training – Completed June 2025  
+Covered PPE, arc flash, shock hazards, and overcurrent protection as per OSHA guidelines.
+
