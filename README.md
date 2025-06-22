@@ -10,7 +10,7 @@ This repository documents my completion of OSHA-compliant electrical safety trai
 - **Platform:** PDHSafety.com  
 - **Status:** Completed ✅  
 - **Date Earned:** June 2025  
-- **Certificate:** Available in `/certificate/` folder
+- 📄 [View Certificate (PDF)](certificate/OSHA-Electrical-Safety-Certificat.pdf)
 
 ---
 
@@ -21,6 +21,12 @@ This repository documents my completion of OSHA-compliant electrical safety trai
 - Overcurrent protection: MCB, ELCB, RCD  
 - Emergency response and First Aid  
 - OSHA standards and safety signs
+
+---
+
+## 🖼️ Certificate Preview
+
+<img src="certificate/preview.png" width="500">
 
 ---
 
