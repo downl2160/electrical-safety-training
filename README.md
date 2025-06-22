@@ -10,7 +10,7 @@ This repository documents my completion of OSHA-compliant electrical safety trai
 - **Platform:** PDHSafety.com  
 - **Status:** Completed ✅  
 - **Date Earned:** June 2025  
-- 📄 [View Certificate (PDF)](certificate/OSHA-Electrical-Safety-Certificat.pdf)
+- 📄 [View Certificate (PDF)](certificate/OSHA-Electrical-Safety-Certificate.pdf)
 
 ---
 
@@ -30,8 +30,3 @@ This repository documents my completion of OSHA-compliant electrical safety trai
 
 ---
 
-## 🏅 Resume Line
-
-```markdown
-OSHA Electrical Safety Training – Completed June 2025  
-Covered PPE, arc flash, shock hazards, and overcurrent protection as per OSHA guidelines.
